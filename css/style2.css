@@ -1,0 +1,15 @@
+.box{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    background:repeating-linear-gradient(blue 10px,blue,red,red 20px) 
+
+
+
+}
+.box1{
+    height: 400px;
+    width: 400px;
+    margin:auto;
+    background:repeating-radial-gradient(blue 10px,blue,red,red 20px)
+}
